@@ -1,5 +1,9 @@
 # 🎢 Pilot Simulation Roller Coaster – G-Force Modeling & Simulation
 
+<p align="center">
+  <img src="roller-coaster-flight-simulator.png" alt="HappyCam Product Photo" width="850"/>
+</p>
+
 ## ✨ Overview
 This project was completed for our ASEN 2803 Dynamics & Controls course. Our goal was to model a **pilot training simulator** based on a roller coaster that reproduces realistic G-forces. The track includes four major components: a **loop**, **banked turn**, **zero-G parabola**, and **braking section**, all designed to simulate the types of forces experienced during flight maneuvers.
 
