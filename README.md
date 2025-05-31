@@ -15,9 +15,7 @@ The coaster begins at an elevation of 125 meters and uses only gravitational pot
 
 - **📐 Loop Modeling**
   - Developed the code and derivations for the loop portion of the coaster using polar coordinate dynamics.
-  - Derived and implemented formulas for **forward/backward** and **vertical G-forces**:
-    - \( G_y = \frac{v^2}{gR(\theta)} + \cos(\theta) \)
-    - \( G_x = \sin(\theta) \)
+  - Derived and implemented formulas for **forward/backward** and **vertical G-forces**.
   - Accounted for centripetal and tangential components in the acceleration profile of the loop.
   - Visualized loop forces using MATLAB and confirmed that the vertical and lateral G-loads stayed within pilot tolerances.
 
